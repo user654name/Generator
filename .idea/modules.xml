@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MyGeneratorModule/MyGeneratorModule.iml" filepath="$PROJECT_DIR$/MyGeneratorModule/MyGeneratorModule.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MyWebTest/MyWebTest.iml" filepath="$PROJECT_DIR$/MyWebTest/MyWebTest.iml" />
     </modules>
   </component>
 </project>
